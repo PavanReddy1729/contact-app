@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "01c2fb18-acad-4640-8ec6-f86d74272073",
+      "name": "Vijaya",
+      "email": "vijaya568@gmail.com"
+    },
+    {
+      "id": "2cca1beb-2e5a-4b08-be62-64b7ddf24485",
+      "name": "Pavan ",
+      "email": "gologurivenkatareddy@gmail.com"
+    },
+    {
+      "id": "69ffcb06-454c-4673-a8d3-d1237eee9135",
+      "name": "max",
+      "email": "max@gmail.com"
+    }
+  ]
+}
